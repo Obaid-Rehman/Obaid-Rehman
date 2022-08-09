@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on .NET libraries and Kubernetes operators.
 - 📫 You can find me on my [LinkedIn profile](https://www.linkedin.com/in/obaidkhattak/)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 
 <!---
